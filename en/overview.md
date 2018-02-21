@@ -1,4 +1,4 @@
-## Dooray > Contacts > 개요
+## Dooray > Contacts > Overview
 
 Dooray! 주소록은 손쉽게 연락처를 등록하고 관리할 수 있습니다. <br>
 기존에 사용 중인 연락처를 Dooray!에 가져와서 업무에 활용해 보세요. 
