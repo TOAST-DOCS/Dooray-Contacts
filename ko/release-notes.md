@@ -1,4 +1,4 @@
-## Dooray > Contacts > 릴리스 노트
+## Dooray! > Contacts > 릴리스 노트
 
 ### 2018.01.15
 #### 기능 개선
