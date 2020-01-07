@@ -17,7 +17,7 @@ Doorayアドレス帳は住所録サービスです。Doorayアドレス帳に�
 #### 連絡先編集
 -	連絡先リストから修正したい連絡先を選択し、右側の詳細画面から「編集」ボタンをクリックしてください。編集画面で内容を修正して「保存」ボタンを押します。
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_02_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_02_jp.png)
 <center>[図2]</center>
 
 #### 連絡先削除
@@ -30,7 +30,7 @@ Doorayアドレス帳は住所録サービスです。Doorayアドレス帳に�
 #### 重要連絡先  
 -	連絡先リストから名前の左側にある星アイコンを選択します。星が黄色に変更されたら、左メニューの「重要」からも確認することができます。
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_04_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_04_jp.png)
 <center>[図4]</center>
  
 #### グループ管理 
@@ -38,7 +38,7 @@ Doorayアドレス帳は住所録サービスです。Doorayアドレス帳に�
 -	連絡先を登録するとき、すでに作成されたグループリストの中からグループを選択したり、連絡先を登録した後、特定グループに移動させることができます。
 -	1つの連絡先を2個以上のグループに移動することができます。
 -	連絡先のグループを対象にメールを作成することができます。メール作成画面で受信者入力欄にグループ名を入力すると、該当のグループでメールアドレスが登録されているメンバーに対してメールが送信されます。
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_05_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_05_jp.png)
 <center>[図5]</center>
  
 ### 連絡先インポート/エクスポート
@@ -46,7 +46,7 @@ Doorayアドレス帳は住所録サービスです。Doorayアドレス帳に�
 - 左メニュー下の「連絡先インポート」から外部で使っている連絡先を、Doorayアドレス帳にインポートすることができます。
 -	現在は、VCard形式とOutlook CSV形式のインポートを支援しています。
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_06_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_06_jp.png)
 <center>[図6]</center>
 
 #### 連絡先エクスポート
@@ -55,20 +55,20 @@ Doorayアドレス帳は住所録サービスです。Doorayアドレス帳に�
 -	Google CSV形式、vCARD形式でダウンロードできます。
 -	連絡先は、全体、グループ別、または特定連絡先を選択してエクスポートすることができます。
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_07_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_07_jp.png)
 <center>[図7]</center>
 
 ### 連絡先の活用方法
 #### アドレス帳からすぐにメール送信
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_08_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_08_jp.png)
 <center>[図8]</center>
 
 -	주소록에 등록된 메일 주소로 바로 메일 발송을 할 수 있습니다.
 -	연락처 목록에서 이메일을 바로 클릭해 대상을 선택하거나, 연락처 목록에서 연락처들을 여러 개 선택한 후 상단의 메일 발송을 누릅니다.
 -	주소록 그룹 대상으로도 메일 쓰기를 할 수 있습니다. 메일쓰기 창을 열고, 받는사람 입력란에 그룹명을 입력하면, 해당 그룹 대상으로 메일을 발송할 수 있습니다.
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_09_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_09_jp.png)
 <center>[図9]</center>
 
 #### 最近利用した連絡先
@@ -76,7 +76,7 @@ Doorayアドレス帳は住所録サービスです。Doorayアドレス帳に�
 -	最近利用した連絡先は、直近の連絡先が50個まで保管されます。管理したい連絡先はリストから削除される前に連絡先に追加しましょう。
 -	メール作成画面で受信者入力欄をクリックすると、最近利用した連絡先が自動補完でリストに表示されます。
 
-![주소록](http://static.toastoven.net/prod_dooray_project/detail/Contacts_10_jp.png)
+![주소록](http://static.toastoven.net/prod_dooray_contacts/Contacts_10_jp.png)
 <center>[図10]</center>
 
 #### メールの送信者を連絡先に追加
